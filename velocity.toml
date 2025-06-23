@@ -1,0 +1,11 @@
+bind = "0.0.0.0:25565"
+motd = "§bWelcome to KumaCraft Proxy!"
+max-players = 100
+online-mode = false
+enable-player-address-logging = true
+player-info-forwarding-mode = "modern"
+
+[servers]
+  lobby = "51.79.96.45:25688"
+
+try = ["lobby"]
